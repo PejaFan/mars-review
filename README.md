@@ -1,4 +1,6 @@
-# MARS Web — Meta Automated Review System
+# MetAI Web — Meta-Analysis 統合分析平台
+
+> 設計者：**PejaFan**
 
 致敬 Cochrane RevMan 的網頁版 **統合分析（Meta-analysis）** 原型，純前端單一 HTML 檔（React + Tailwind CDN），雙擊即可在瀏覽器執行。更直覺、更親民的操作方式!!
 
@@ -15,14 +17,14 @@
 
 ## 使用方式
 
-直接用瀏覽器開啟 [`mars-web.html`](mars-web.html) 即可（首次載入需連網以取得 React / Tailwind CDN）。
+直接用瀏覽器開啟 [`metai-web.html`](metai-web.html) 即可（首次載入需連網以取得 React / Tailwind CDN）。
 
 ## 檔案
 
 | 檔案 | 說明 |
 | --- | --- |
-| `mars-web.html` | 完整應用程式（單一檔） |
-| `_redirects` | Netlify 設定：根網址改寫為 `mars-web.html` |
+| `metai-web.html` | 完整應用程式（單一檔） |
+| `_redirects` | Netlify 設定：根網址改寫為 `metai-web.html` |
 
 ## 免責聲明
 
